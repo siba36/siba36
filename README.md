@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @siba36
-- 👀 I’m interested in desktop and mobile applications
-- 🌱 I’m currently learning flutter
+- 👀 I’m interested in Web and mobile applications
+- 🌱 I’m currently learning flutter and I'm working as a junior asp.net developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
